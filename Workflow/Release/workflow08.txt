@@ -1,0 +1,6 @@
+desc
+1 = sorted
+2 = readfile in.txt
+3 = writefile.txt
+csed
+2 -> 1 -> 3

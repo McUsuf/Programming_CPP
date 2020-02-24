@@ -1,0 +1,5 @@
+desc
+1 = readfile in1.txt
+2 = writefile out.txt
+csed
+2 -> 1

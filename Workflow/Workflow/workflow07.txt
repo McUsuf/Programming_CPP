@@ -1,0 +1,7 @@
+desc
+
+1 = sort
+1 = grep kek
+2 = readfile in.txt
+csed
+2 -> 1

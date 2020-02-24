@@ -1,0 +1,5 @@
+desc
+123 = readfile in.txt
+1234 = writefile out.txt
+csed
+123 -> 1234

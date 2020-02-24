@@ -1,0 +1,8 @@
+desc
+99999999 = readfile in5.txt
+10000000 = writefile out.txt
+123 = replace e eee
+1234 = sort
+12345 = grep eee
+csed
+99999999 -> 123 -> 12345 -> 1234 -> 10000000

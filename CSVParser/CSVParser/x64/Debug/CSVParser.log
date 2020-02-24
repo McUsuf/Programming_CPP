@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\виталя\source\repos\CSVParser\CSVParser\csv_parser.h(102,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\виталя\source\repos\CSVParser\CSVParser\csv_parser.h(102): message : во время компиляции функции-члена класс шаблон "CSV_parser<double,double,double,std::string>::CSVIterator &CSV_parser<double,double,double,std::string>::CSVIterator::operator ++(void)"
+C:\Users\виталя\source\repos\CSVParser\CSVParser\main.cpp(11): message : выполняется компиляция ссылки на экземпляр шаблон функции "CSV_parser<double,double,double,std::string>::CSVIterator &CSV_parser<double,double,double,std::string>::CSVIterator::operator ++(void)"
+C:\Users\виталя\source\repos\CSVParser\CSVParser\main.cpp(11): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CSV_parser<double,double,double,std::string>::CSVIterator"
+  CSVParser.vcxproj -> C:\Users\виталя\source\repos\CSVParser\x64\Debug\CSVParser.exe

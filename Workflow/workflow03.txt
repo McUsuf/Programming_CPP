@@ -1,0 +1,8 @@
+desc
+1 = sort
+2 = grep ab
+3 = replace ab abab
+4 = readfile in3.txt
+5 = writefile out.txt
+csed
+4 -> 1 -> 2 -> 3 -> 1 -> 5

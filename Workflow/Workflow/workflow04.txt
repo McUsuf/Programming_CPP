@@ -1,0 +1,10 @@
+desc
+10 = readfile in4.txt
+100 = writefile out.txt
+1000 = sort
+10000 = dump dump.txt
+100000 = replace vitas Vitalya228
+1000000 = grep Vitalya228
+10000000 = sort
+csed
+10 -> 1000 -> 10000 -> 100000 -> 1000000 -> 10000000 -> 100

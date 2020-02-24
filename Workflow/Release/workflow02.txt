@@ -1,0 +1,11 @@
+desc
+123 = readfile in2.txt
+1234 = sort
+12 = dump dump.txt
+12345 = sort
+1 = grep kek
+2 = replace lol ololo
+3 = replace ololo lol
+123456 = writefile out.txt
+csed
+123 -> 1234 -> 12 -> 12345 -> 1 -> 2 -> 3 -> 2 -> 3 -> 123456
